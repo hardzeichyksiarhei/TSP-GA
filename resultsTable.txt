@@ -1,0 +1,12 @@
+Using the following parameters:
+    Set number of iterations: 50
+    Mutation factor: 0.5
+    Number of genes: 8
+    Number of initial population: 4
+
+
+                           & Type & Number of Generations & Path produced & Cost  & Initial Population & Actual Population & Mutation Factor \\
+Top-down PMX               & 0    & 50                    & egbahdcf      & 5036  & 12                 & 12                & 0.5             \\
+Tournament PMX             & 1    & 50                    & dhgbafec      & 10835 & 12                 & 12                & 0.5             \\
+Top-down Cycle Crossover   & 2    & 50                    & hadcfbge      & 4135  & 12                 & 12                & 0.5             \\
+Tournament Cycle Crossover & 3    & 50                    & bgdacehf      & 9950  & 12                 & 12                & 0.5

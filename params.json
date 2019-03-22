@@ -1,0 +1,12 @@
+
+{
+  "NumChromesInit": 1000,
+  "NumChromes": 250,
+  "NumGenes": 29,
+  "MutFact": 0.5,
+  "NumIterations": 1000,
+
+  "CrossoverType": "invx",
+  "MutateType": "inversion",
+  "SelectionType": "topdown"
+}
